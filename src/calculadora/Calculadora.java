@@ -12,7 +12,19 @@ public class Calculadora {
         System.out.print("Introduce el segundo número: ");
         int b = sc.nextInt();
 
-        int resultado = a + b;
-        System.out.println("Resultado de la suma: " + resultado);
+        System.out.println("Elige operación: 1) Suma  2) Resta");
+        int opcion = sc.nextInt();
+
+        int resultado;
+
+        if (opcion == 1) {
+            resultado = a + b;
+            System.out.println("Resultado de la suma: " + resultado);
+        } else if (opcion == 2) {
+            resultado = a - b;
+            System.out.println("Resultado de la resta: " + resultado);
+        } else {
+            System.out.println("Opción no válida");
+        }
     }
 }
