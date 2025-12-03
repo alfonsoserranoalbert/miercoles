@@ -1,5 +1,7 @@
 package calculadora;
 
+//Añadida la funcionalidad X. Fixes #3
+
 import java.util.Scanner;
 
 public class Calculadora {
