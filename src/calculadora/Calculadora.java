@@ -10,7 +10,7 @@ package calculadora;
  * @since 2025-12-03
 
 
-Añadida la funcionalidad X. Fixes #3
+Añadida la funcionalidad X. Fixes #3aaaaa
 
 Fixes #3
 
