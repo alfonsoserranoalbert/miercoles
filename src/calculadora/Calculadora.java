@@ -1,6 +1,28 @@
 package calculadora;
 
-//Añadida la funcionalidad X. Fixes #3
+/*/**
+ * Clase Suelo que almacena las dimensiones de un suelo rectangular.
+ * Valida que los valores no sean negativos.
+ *
+ * Práctica de Programación
+ * @author Alfonso Serrano
+ * @version 1.0
+ * @since 2025-12-03
+
+
+Añadida la funcionalidad X. Fixes #3
+
+Fixes #3
+
+Closes #3
+
+Resolved #3
+
+Fix #
+
+Close #3
+*
+*/
 
 import java.util.Scanner;
 
